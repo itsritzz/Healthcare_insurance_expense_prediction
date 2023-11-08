@@ -4,7 +4,7 @@
 
 In the ever-evolving landscape of healthcare, where costs have soared due to the complexities of the modern healthcare system, the power of data has emerged as a beacon of hope. Healthcare analytics, much like a skilled navigator, holds the key to understanding and transforming the intricate web of health insurance costs. This is the mission of our project: to harness the transformative potential of data.
 
-![Healthcare Image]([insert_image_url_here](https://today.uconn.edu/wp-content/uploads/2017/04/shutterstock_373492012-health-insurance-e1491415000969.jpg))
+![Healthcare Image](https://github.com/itsritzz/Healthcare_insurance_expense_prediction/blob/main/images/Health-insurance.jpg)
 
 ## Project Overview
 
